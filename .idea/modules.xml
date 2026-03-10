@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/B1P24_RA2411026010642/B1P24_RA2411026010642.iml" filepath="$PROJECT_DIR$/B1P24_RA2411026010642/B1P24_RA2411026010642.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B1P24_RA2411026010642/PalindromeCheckerApp1/PalindromeCheckerApp1.iml" filepath="$PROJECT_DIR$/B1P24_RA2411026010642/PalindromeCheckerApp1/PalindromeCheckerApp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/suzie23.iml" filepath="$PROJECT_DIR$/.idea/suzie23.iml" />
+    </modules>
+  </component>
+</project>
